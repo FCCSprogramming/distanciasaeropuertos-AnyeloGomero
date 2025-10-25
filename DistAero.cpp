@@ -1,5 +1,11 @@
+/*Codigo hecho por: 
+Nombre: Gomero Castillo Anyelo
+Codigo: 20250495A
+*/
 #include <iostream>
+//Libreria para utilizar setprecision
 #include <iomanip>
+//Librerias necesarias para utilizar srand() y rand()
 #include <cstdlib>
 #include <ctime>
 
